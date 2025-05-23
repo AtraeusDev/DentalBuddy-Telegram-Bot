@@ -26,8 +26,8 @@
 
 3. Создайте файл `.env` в корне проекта с содержимым:  
     ```env
-    BOT_TOKEN=your_telegram_bot_token
-    OPENROUTER_API_KEY=your_openrouter_api_key
+    TOKEN_BOT=your_telegram_bot_token
+    TOKEN_AI=your_openrouter_api_key
     ```
 
 4. Запустите бота:  
