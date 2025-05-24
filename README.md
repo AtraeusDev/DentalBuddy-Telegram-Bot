@@ -15,8 +15,8 @@
 
 1. Клонируйте репозиторий:  
     ```bash
-    git clone https://github.com/USERNAME/DentalBuddy.git
-    cd DentalBuddy
+    git clone [https://github.com/AtraeusDev/DentalBuddy-Telegram-Bot]
+    cd DentalBuddy-Telegram-Bot
     ```
 
 2. Установите зависимости:  
