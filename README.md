@@ -15,7 +15,7 @@
 
 1. Клонируйте репозиторий:  
     ```bash
-    git clone [https://github.com/AtraeusDev/DentalBuddy-Telegram-Bot]
+    git clone https://github.com/AtraeusDev/DentalBuddy-Telegram-Bot
     cd DentalBuddy-Telegram-Bot
     ```
 
@@ -44,7 +44,6 @@
 - `states.py` — состояния  
 - `handlers/` — обработчики  
 - `requirements.txt` — зависимости проекта  
-- `.env.example` — пример файла с переменными окружения   
 - `.gitignore` — исключает из коммита `.env` и служебные файлы  
 
 ---
